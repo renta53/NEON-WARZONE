@@ -9,6 +9,13 @@
 <img src="スクリーンショット 2026-09-12 201126.png" alt="NEON WARZONE プレイ画面" width="800">
 
 敵を倒して経験値を獲得し、レベルアップや武器変更を行いながら、押し寄せる敵のウェーブを生き残る2Dアクションゲームです。
+<h2>🎮 ゲームをプレイ</h2>
+
+<p>Windows版はこちらからダウンロードできます。</p>
+
+<a href="NEON_WARZONE.exe">
+  <strong>▶ NEON_WARZONE.exe をダウンロード</strong>
+</a>
 
 ## 🎮 ゲーム概要
 
