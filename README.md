@@ -2,7 +2,7 @@
 ## 📷 ゲーム画面
 
 ### タイトル画面
-![NEON WARZONE タイトル画面](title_screen.png)
+![NEON WARZONE タイトル画面](スクリーンショット 2026-09-12 201108.png)
 
 
 ### プレイ画面
